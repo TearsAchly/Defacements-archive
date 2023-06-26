@@ -51,7 +51,6 @@ http://www7.tj.ba.gov.br/secao/arquivo/4/12023/upload.php
  http://multigacos.com/admin/fckeditor/editor/filemanager/connectors/uploadtest.html
 [http://www.rsesymposia.org/cms/editor/filemanager/upload/test.html
  https://forum.hotcandyland.com/laravel-filemanager?type=Files#!
-
 webdav
 http://georgian.za.net
  http://nhsgilde.co.za
